@@ -1,0 +1,1302 @@
+[
+  {
+    "Category": "Breakfast",
+    "Item": "Egg McMuffin",
+    "Calories": 300
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Egg White Delight",
+    "Calories": 250
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage McMuffin",
+    "Calories": 370
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage McMuffin with Egg",
+    "Calories": 450
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage McMuffin with Egg Whites",
+    "Calories": 400
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Steak & Egg McMuffin",
+    "Calories": 430
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese Biscuit (Regular Biscuit)",
+    "Calories": 460
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese Biscuit (Large Biscuit)",
+    "Calories": 520
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",
+    "Calories": 410
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",
+    "Calories": 470
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage Biscuit (Regular Biscuit)",
+    "Calories": 430
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage Biscuit (Large Biscuit)",
+    "Calories": 480
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage Biscuit with Egg (Regular Biscuit)",
+    "Calories": 510
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage Biscuit with Egg (Large Biscuit)",
+    "Calories": 570
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage Biscuit with Egg Whites (Regular Biscuit)",
+    "Calories": 460
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage Biscuit with Egg Whites (Large Biscuit)",
+    "Calories": 520
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Southern Style Chicken Biscuit (Regular Biscuit)",
+    "Calories": 410
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Southern Style Chicken Biscuit (Large Biscuit)",
+    "Calories": 470
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Steak & Egg Biscuit (Regular Biscuit)",
+    "Calories": 540
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese McGriddles",
+    "Calories": 460
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese McGriddles with Egg Whites",
+    "Calories": 400
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage McGriddles",
+    "Calories": 420
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage, Egg & Cheese McGriddles",
+    "Calories": 550
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage, Egg & Cheese McGriddles with Egg Whites",
+    "Calories": 500
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese Bagel",
+    "Calories": 620
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Bacon, Egg & Cheese Bagel with Egg Whites",
+    "Calories": 570
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Steak, Egg & Cheese Bagel",
+    "Calories": 670
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast (Regular Biscuit)",
+    "Calories": 740
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast (Large Biscuit)",
+    "Calories": 800
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast with Egg Whites (Regular Biscuit)",
+    "Calories": 640
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast with Egg Whites (Large Biscuit)",
+    "Calories": 690
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast with Hotcakes (Regular Biscuit)",
+    "Calories": 1090
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast with Hotcakes (Large Biscuit)",
+    "Calories": 1150
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit)",
+    "Calories": 990
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Big Breakfast with Hotcakes and Egg Whites (Large Biscuit)",
+    "Calories": 1050
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Hotcakes",
+    "Calories": 350
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Hotcakes and Sausage",
+    "Calories": 520
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Sausage Burrito",
+    "Calories": 300
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Hash Brown",
+    "Calories": 150
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Cinnamon Melts",
+    "Calories": 460
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Fruit & Maple Oatmeal",
+    "Calories": 290
+  },
+  {
+    "Category": "Breakfast",
+    "Item": "Fruit & Maple Oatmeal without Brown Sugar",
+    "Calories": 260
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Big Mac",
+    "Calories": 530
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Quarter Pounder with Cheese",
+    "Calories": 520
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Quarter Pounder with Bacon & Cheese",
+    "Calories": 600
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Quarter Pounder with Bacon Habanero Ranch",
+    "Calories": 610
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Quarter Pounder Deluxe",
+    "Calories": 540
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Double Quarter Pounder with Cheese",
+    "Calories": 750
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Hamburger",
+    "Calories": 240
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Cheeseburger",
+    "Calories": 290
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Double Cheeseburger",
+    "Calories": 430
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Bacon Clubhouse Burger",
+    "Calories": 720
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "McDouble",
+    "Calories": 380
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Bacon McDouble",
+    "Calories": 440
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Daily Double",
+    "Calories": 430
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "Jalapeño Double",
+    "Calories": 430
+  },
+  {
+    "Category": "Beef & Pork",
+    "Item": "McRib",
+    "Calories": 500
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium Crispy Chicken Classic Sandwich",
+    "Calories": 510
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium Grilled Chicken Classic Sandwich",
+    "Calories": 350
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium Crispy Chicken Club Sandwich",
+    "Calories": 670
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium Grilled Chicken Club Sandwich",
+    "Calories": 510
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium Crispy Chicken Ranch BLT Sandwich",
+    "Calories": 610
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium Grilled Chicken Ranch BLT Sandwich",
+    "Calories": 450
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Bacon Clubhouse Crispy Chicken Sandwich",
+    "Calories": 750
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Bacon Clubhouse Grilled Chicken Sandwich",
+    "Calories": 590
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Southern Style Crispy Chicken Sandwich",
+    "Calories": 430
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "McChicken",
+    "Calories": 360
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Bacon Cheddar McChicken",
+    "Calories": 480
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Bacon Buffalo Ranch McChicken",
+    "Calories": 430
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Buffalo Ranch McChicken",
+    "Calories": 360
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Chicken & Bacon (Crispy Chicken)",
+    "Calories": 630
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Chicken & Bacon (Grilled Chicken)",
+    "Calories": 480
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Chicken & Ranch (Crispy Chicken)",
+    "Calories": 610
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Chicken & Ranch (Grilled Chicken)",
+    "Calories": 450
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Southwest Chicken (Crispy Chicken)",
+    "Calories": 670
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Southwest Chicken (Grilled Chicken)",
+    "Calories": 520
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Chicken Sweet Chili (Crispy Chicken)",
+    "Calories": 540
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Premium McWrap Chicken Sweet Chili (Grilled Chicken)",
+    "Calories": 380
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Chicken McNuggets (4 piece)",
+    "Calories": 190
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Chicken McNuggets (6 piece)",
+    "Calories": 280
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Chicken McNuggets (10 piece)",
+    "Calories": 470
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Chicken McNuggets (20 piece)",
+    "Calories": 940
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Chicken McNuggets (40 piece)",
+    "Calories": 1880
+  },
+  {
+    "Category": "Chicken & Fish",
+    "Item": "Filet-O-Fish",
+    "Calories": 390
+  },
+  {
+    "Category": "Salads",
+    "Item": "Premium Bacon Ranch Salad (without Chicken)",
+    "Calories": 140
+  },
+  {
+    "Category": "Salads",
+    "Item": "Premium Bacon Ranch Salad with Crispy Chicken",
+    "Calories": 380
+  },
+  {
+    "Category": "Salads",
+    "Item": "Premium Bacon Ranch Salad with Grilled Chicken",
+    "Calories": 220
+  },
+  {
+    "Category": "Salads",
+    "Item": "Premium Southwest Salad (without Chicken)",
+    "Calories": 140
+  },
+  {
+    "Category": "Salads",
+    "Item": "Premium Southwest Salad with Crispy Chicken",
+    "Calories": 450
+  },
+  {
+    "Category": "Salads",
+    "Item": "Premium Southwest Salad with Grilled Chicken",
+    "Calories": 290
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Chipotle BBQ Snack Wrap (Crispy Chicken)",
+    "Calories": 340
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Chipotle BBQ Snack Wrap (Grilled Chicken)",
+    "Calories": 260
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Honey Mustard Snack Wrap (Crispy Chicken)",
+    "Calories": 330
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Honey Mustard Snack Wrap (Grilled Chicken)",
+    "Calories": 250
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Ranch Snack Wrap (Crispy Chicken)",
+    "Calories": 360
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Ranch Snack Wrap (Grilled Chicken)",
+    "Calories": 280
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Small French Fries",
+    "Calories": 230
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Medium French Fries",
+    "Calories": 340
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Large French Fries",
+    "Calories": 510
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Kids French Fries",
+    "Calories": 110
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Side Salad",
+    "Calories": 20
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Apple Slices",
+    "Calories": 15
+  },
+  {
+    "Category": "Snacks & Sides",
+    "Item": "Fruit 'n Yogurt Parfait",
+    "Calories": 150
+  },
+  {
+    "Category": "Desserts",
+    "Item": "Baked Apple Pie",
+    "Calories": 250
+  },
+  {
+    "Category": "Desserts",
+    "Item": "Chocolate Chip Cookie",
+    "Calories": 160
+  },
+  {
+    "Category": "Desserts",
+    "Item": "Oatmeal Raisin Cookie",
+    "Calories": 150
+  },
+  {
+    "Category": "Desserts",
+    "Item": "Kids Ice Cream Cone",
+    "Calories": 45
+  },
+  {
+    "Category": "Desserts",
+    "Item": "Hot Fudge Sundae",
+    "Calories": 330
+  },
+  {
+    "Category": "Desserts",
+    "Item": "Hot Caramel Sundae",
+    "Calories": 340
+  },
+  {
+    "Category": "Desserts",
+    "Item": "Strawberry Sundae",
+    "Calories": 280
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Coca-Cola Classic (Small)",
+    "Calories": 140
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Coca-Cola Classic (Medium)",
+    "Calories": 200
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Coca-Cola Classic (Large)",
+    "Calories": 280
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Coca-Cola Classic (Child)",
+    "Calories": 100
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Coke (Small)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Coke (Medium)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Coke (Large)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Coke (Child)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Dr Pepper (Small)",
+    "Calories": 140
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Dr Pepper (Medium)",
+    "Calories": 190
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Dr Pepper (Large)",
+    "Calories": 270
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Dr Pepper (Child)",
+    "Calories": 100
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Dr Pepper (Small)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Dr Pepper (Medium)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Dr Pepper (Large)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Diet Dr Pepper (Child)",
+    "Calories": 0
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Sprite (Small)",
+    "Calories": 140
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Sprite (Medium)",
+    "Calories": 200
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Sprite (Large)",
+    "Calories": 280
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Sprite (Child)",
+    "Calories": 100
+  },
+  {
+    "Category": "Beverages",
+    "Item": "1% Low Fat Milk Jug",
+    "Calories": 100
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Fat Free Chocolate Milk Jug",
+    "Calories": 130
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Minute Maid 100% Apple Juice Box",
+    "Calories": 80
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Minute Maid Orange Juice (Small)",
+    "Calories": 150
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Minute Maid Orange Juice (Medium)",
+    "Calories": 190
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Minute Maid Orange Juice (Large)",
+    "Calories": 280
+  },
+  {
+    "Category": "Beverages",
+    "Item": "Dasani Water Bottle",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Tea (Small)",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Tea (Medium)",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Tea (Large)",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Tea (Child)",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Sweet Tea (Small)",
+    "Calories": 150
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Sweet Tea (Medium)",
+    "Calories": 180
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Sweet Tea (Large)",
+    "Calories": 220
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Sweet Tea (Child)",
+    "Calories": 110
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Coffee (Small)",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Coffee (Medium)",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Coffee (Large)",
+    "Calories": 0
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Latte (Small)",
+    "Calories": 170
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Latte (Medium)",
+    "Calories": 210
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Latte (Large)",
+    "Calories": 280
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Latte (Small)",
+    "Calories": 270
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Latte (Medium)",
+    "Calories": 340
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Latte (Large)",
+    "Calories": 430
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hazelnut Latte (Small)",
+    "Calories": 270
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hazelnut Latte (Medium)",
+    "Calories": 330
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hazelnut Latte (Large)",
+    "Calories": 430
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "French Vanilla Latte (Small)",
+    "Calories": 260
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "French Vanilla Latte (Medium)",
+    "Calories": 330
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "French Vanilla Latte (Large)",
+    "Calories": 420
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Latte with Sugar Free French Vanilla Syrup (Small)",
+    "Calories": 210
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Latte with Sugar Free French Vanilla Syrup (Medium)",
+    "Calories": 260
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Latte with Sugar Free French Vanilla Syrup (Large)",
+    "Calories": 330
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Latte (Small)",
+    "Calories": 100
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Latte (Medium)",
+    "Calories": 130
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Latte (Large)",
+    "Calories": 170
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Caramel Latte (Small)",
+    "Calories": 200
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Caramel Latte (Medium)",
+    "Calories": 250
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Caramel Latte (Large)",
+    "Calories": 310
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Hazelnut Latte (Small)",
+    "Calories": 200
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Hazelnut Latte (Medium)",
+    "Calories": 250
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Hazelnut Latte (Large)",
+    "Calories": 310
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat French Vanilla Latte (Small)",
+    "Calories": 190
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat French Vanilla Latte (Medium)",
+    "Calories": 240
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat French Vanilla Latte (Large)",
+    "Calories": 300
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Latte with Sugar Free French Vanilla Syrup (Small)",
+    "Calories": 140
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Latte with Sugar Free French Vanilla Syrup (Medium)",
+    "Calories": 170
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Latte with Sugar Free French Vanilla Syrup (Large)",
+    "Calories": 220
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Mocha (Small)",
+    "Calories": 340
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Mocha (Medium)",
+    "Calories": 410
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Mocha (Large)",
+    "Calories": 500
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Mocha with Nonfat Milk (Small)",
+    "Calories": 270
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Mocha with Nonfat Milk (Medium)",
+    "Calories": 330
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Mocha with Nonfat Milk (Large)",
+    "Calories": 390
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Mocha (Small)",
+    "Calories": 320
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Mocha (Medium)",
+    "Calories": 390
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Mocha (Large)",
+    "Calories": 480
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Caramel Mocha (Small)",
+    "Calories": 250
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Caramel Mocha (Medium)",
+    "Calories": 310
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Nonfat Caramel Mocha (Large)",
+    "Calories": 370
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hot Chocolate (Small)",
+    "Calories": 360
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hot Chocolate (Medium)",
+    "Calories": 440
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hot Chocolate (Large)",
+    "Calories": 540
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hot Chocolate with Nonfat Milk (Small)",
+    "Calories": 280
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hot Chocolate with Nonfat Milk (Medium)",
+    "Calories": 340
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hot Chocolate with Nonfat Milk (Large)",
+    "Calories": 400
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Regular Iced Coffee (Small)",
+    "Calories": 140
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Regular Iced Coffee (Medium)",
+    "Calories": 190
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Regular Iced Coffee (Large)",
+    "Calories": 270
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Iced Coffee (Small)",
+    "Calories": 130
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Iced Coffee (Medium)",
+    "Calories": 180
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Caramel Iced Coffee (Large)",
+    "Calories": 260
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hazelnut Iced Coffee (Small)",
+    "Calories": 130
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hazelnut Iced Coffee (Medium)",
+    "Calories": 180
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Hazelnut Iced Coffee (Large)",
+    "Calories": 250
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "French Vanilla Iced Coffee (Small)",
+    "Calories": 120
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "French Vanilla Iced Coffee (Medium)",
+    "Calories": 170
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "French Vanilla Iced Coffee (Large)",
+    "Calories": 240
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Coffee with Sugar Free French Vanilla Syrup (Small)",
+    "Calories": 80
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Coffee with Sugar Free French Vanilla Syrup (Medium)",
+    "Calories": 120
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Coffee with Sugar Free French Vanilla Syrup (Large)",
+    "Calories": 160
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Mocha (Small)",
+    "Calories": 290
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Mocha (Medium)",
+    "Calories": 350
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Mocha (Large)",
+    "Calories": 480
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Mocha with Nonfat Milk (Small)",
+    "Calories": 240
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Mocha with Nonfat Milk (Medium)",
+    "Calories": 290
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Mocha with Nonfat Milk (Large)",
+    "Calories": 390
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Caramel Mocha (Small)",
+    "Calories": 280
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Caramel Mocha (Medium)",
+    "Calories": 340
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Caramel Mocha (Large)",
+    "Calories": 460
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Nonfat Caramel Mocha (Small)",
+    "Calories": 230
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Nonfat Caramel Mocha (Medium)",
+    "Calories": 270
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Iced Nonfat Caramel Mocha (Large)",
+    "Calories": 370
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Mocha (Small)",
+    "Calories": 450
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Mocha (Medium)",
+    "Calories": 550
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Mocha (Large)",
+    "Calories": 670
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Caramel (Small)",
+    "Calories": 450
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Caramel (Medium)",
+    "Calories": 550
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Caramel (Large)",
+    "Calories": 670
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Chocolate Chip (Small)",
+    "Calories": 530
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Chocolate Chip (Medium)",
+    "Calories": 630
+  },
+  {
+    "Category": "Coffee & Tea",
+    "Item": "Frappé Chocolate Chip (Large)",
+    "Calories": 760
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Blueberry Pomegranate Smoothie (Small)",
+    "Calories": 220
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Blueberry Pomegranate Smoothie (Medium)",
+    "Calories": 260
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Blueberry Pomegranate Smoothie (Large)",
+    "Calories": 340
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Strawberry Banana Smoothie (Small)",
+    "Calories": 210
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Strawberry Banana Smoothie (Medium)",
+    "Calories": 250
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Strawberry Banana Smoothie (Large)",
+    "Calories": 330
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Mango Pineapple Smoothie (Small)",
+    "Calories": 210
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Mango Pineapple Smoothie (Medium)",
+    "Calories": 260
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Mango Pineapple Smoothie (Large)",
+    "Calories": 340
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Vanilla Shake (Small)",
+    "Calories": 530
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Vanilla Shake (Medium)",
+    "Calories": 660
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Vanilla Shake (Large)",
+    "Calories": 820
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Strawberry Shake (Small)",
+    "Calories": 550
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Strawberry Shake (Medium)",
+    "Calories": 690
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Strawberry Shake (Large)",
+    "Calories": 850
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Chocolate Shake (Small)",
+    "Calories": 560
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Chocolate Shake (Medium)",
+    "Calories": 700
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Chocolate Shake (Large)",
+    "Calories": 850
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Shamrock Shake (Medium)",
+    "Calories": 660
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "Shamrock Shake (Large)",
+    "Calories": 820
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with M&M’s Candies (Small)",
+    "Calories": 650
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with M&M’s Candies (Medium)",
+    "Calories": 930
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with M&M’s Candies (Snack)",
+    "Calories": 430
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with Oreo Cookies (Small)",
+    "Calories": 510
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with Oreo Cookies (Medium)",
+    "Calories": 690
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with Oreo Cookies (Snack)",
+    "Calories": 340
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with Reese's Peanut Butter Cups (Medium)",
+    "Calories": 810
+  },
+  {
+    "Category": "Smoothies & Shakes",
+    "Item": "McFlurry with Reese's Peanut Butter Cups (Snack)",
+    "Calories": 410
+  }
+]
