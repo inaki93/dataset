@@ -1,0 +1,961 @@
+name;year;Sex;Edad;value
+;2005;Ambos sexos;Todas las edades;3399
+;2005;Ambos sexos;Menores de 15 años;7
+;2005;Ambos sexos;De 15 a 29 años;436
+;2005;Ambos sexos;De 30 a 39 años;576
+;2005;Ambos sexos;De 40 a 44 años;298
+;2005;Ambos sexos;De 45 a 49 años;242
+;2005;Ambos sexos;De 50 a 54 años;226
+;2005;Ambos sexos;De 55 a 59 años;223
+;2005;Ambos sexos;De 60 a 64 años;209
+;2005;Ambos sexos;De 65 a 69 años;216
+;2005;Ambos sexos;De 70 a 74 años;292
+;2005;Ambos sexos;De 75 a 79 años;268
+;2005;Ambos sexos;De 80 a 84 años;226
+;2005;Ambos sexos;De 85 a 89 años;115
+;2005;Ambos sexos;De 90 a 94 años;57
+;2005;Ambos sexos;De 95 años y más;8
+;2005;H;Todas las edades;2570
+;2005;H;Menores de 15 años;4
+;2005;H;De 15 a 29 años;343
+;2005;H;De 30 a 39 años;448
+;2005;H;De 40 a 44 años;249
+;2005;H;De 45 a 49 años;185
+;2005;H;De 50 a 54 años;170
+;2005;H;De 55 a 59 años;157
+;2005;H;De 60 a 64 años;145
+;2005;H;De 65 a 69 años;156
+;2005;H;De 70 a 74 años;205
+;2005;H;De 75 a 79 años;209
+;2005;H;De 80 a 84 años;165
+;2005;H;De 85 a 89 años;85
+;2005;H;De 90 a 94 años;43
+;2005;H;De 95 años y más;6
+;2005;M;Todas las edades;829
+;2005;M;Menores de 15 años;3
+;2005;M;De 15 a 29 años;93
+;2005;M;De 30 a 39 años;128
+;2005;M;De 40 a 44 años;49
+;2005;M;De 45 a 49 años;57
+;2005;M;De 50 a 54 años;56
+;2005;M;De 55 a 59 años;66
+;2005;M;De 60 a 64 años;64
+;2005;M;De 65 a 69 años;60
+;2005;M;De 70 a 74 años;87
+;2005;M;De 75 a 79 años;59
+;2005;M;De 80 a 84 años;61
+;2005;M;De 85 a 89 años;30
+;2005;M;De 90 a 94 años;14
+;2005;M;De 95 años y más;2
+Andalucía;2005;Ambos sexos;Todas las edades;697
+Andalucía;2005;Ambos sexos;Menores de 15 años;0
+Andalucía;2005;Ambos sexos;De 15 a 29 años;94
+Andalucía;2005;Ambos sexos;De 30 a 39 años;94
+Andalucía;2005;Ambos sexos;De 40 a 44 años;66
+Andalucía;2005;Ambos sexos;De 45 a 49 años;57
+Andalucía;2005;Ambos sexos;De 50 a 54 años;53
+Andalucía;2005;Ambos sexos;De 55 a 59 años;50
+Andalucía;2005;Ambos sexos;De 60 a 64 años;36
+Andalucía;2005;Ambos sexos;De 65 a 69 años;56
+Andalucía;2005;Ambos sexos;De 70 a 74 años;69
+Andalucía;2005;Ambos sexos;De 75 a 79 años;55
+Andalucía;2005;Ambos sexos;De 80 a 84 años;34
+Andalucía;2005;Ambos sexos;De 85 a 89 años;26
+Andalucía;2005;Ambos sexos;De 90 a 94 años;7
+Andalucía;2005;Ambos sexos;De 95 años y más;0
+Andalucía;2005;H;Todas las edades;530
+Andalucía;2005;H;Menores de 15 años;0
+Andalucía;2005;H;De 15 a 29 años;83
+Andalucía;2005;H;De 30 a 39 años;77
+Andalucía;2005;H;De 40 a 44 años;53
+Andalucía;2005;H;De 45 a 49 años;42
+Andalucía;2005;H;De 50 a 54 años;38
+Andalucía;2005;H;De 55 a 59 años;27
+Andalucía;2005;H;De 60 a 64 años;25
+Andalucía;2005;H;De 65 a 69 años;42
+Andalucía;2005;H;De 70 a 74 años;50
+Andalucía;2005;H;De 75 a 79 años;43
+Andalucía;2005;H;De 80 a 84 años;27
+Andalucía;2005;H;De 85 a 89 años;19
+Andalucía;2005;H;De 90 a 94 años;4
+Andalucía;2005;H;De 95 años y más;0
+Andalucía;2005;M;Todas las edades;167
+Andalucía;2005;M;Menores de 15 años;0
+Andalucía;2005;M;De 15 a 29 años;11
+Andalucía;2005;M;De 30 a 39 años;17
+Andalucía;2005;M;De 40 a 44 años;13
+Andalucía;2005;M;De 45 a 49 años;15
+Andalucía;2005;M;De 50 a 54 años;15
+Andalucía;2005;M;De 55 a 59 años;23
+Andalucía;2005;M;De 60 a 64 años;11
+Andalucía;2005;M;De 65 a 69 años;14
+Andalucía;2005;M;De 70 a 74 años;19
+Andalucía;2005;M;De 75 a 79 años;12
+Andalucía;2005;M;De 80 a 84 años;7
+Andalucía;2005;M;De 85 a 89 años;7
+Andalucía;2005;M;De 90 a 94 años;3
+Andalucía;2005;M;De 95 años y más;0
+Aragón;2005;Ambos sexos;Todas las edades;102
+Aragón;2005;Ambos sexos;Menores de 15 años;0
+Aragón;2005;Ambos sexos;De 15 a 29 años;10
+Aragón;2005;Ambos sexos;De 30 a 39 años;18
+Aragón;2005;Ambos sexos;De 40 a 44 años;2
+Aragón;2005;Ambos sexos;De 45 a 49 años;4
+Aragón;2005;Ambos sexos;De 50 a 54 años;4
+Aragón;2005;Ambos sexos;De 55 a 59 años;7
+Aragón;2005;Ambos sexos;De 60 a 64 años;4
+Aragón;2005;Ambos sexos;De 65 a 69 años;6
+Aragón;2005;Ambos sexos;De 70 a 74 años;8
+Aragón;2005;Ambos sexos;De 75 a 79 años;11
+Aragón;2005;Ambos sexos;De 80 a 84 años;12
+Aragón;2005;Ambos sexos;De 85 a 89 años;7
+Aragón;2005;Ambos sexos;De 90 a 94 años;9
+Aragón;2005;Ambos sexos;De 95 años y más;0
+Aragón;2005;H;Todas las edades;75
+Aragón;2005;H;Menores de 15 años;0
+Aragón;2005;H;De 15 a 29 años;8
+Aragón;2005;H;De 30 a 39 años;15
+Aragón;2005;H;De 40 a 44 años;1
+Aragón;2005;H;De 45 a 49 años;3
+Aragón;2005;H;De 50 a 54 años;1
+Aragón;2005;H;De 55 a 59 años;5
+Aragón;2005;H;De 60 a 64 años;3
+Aragón;2005;H;De 65 a 69 años;4
+Aragón;2005;H;De 70 a 74 años;3
+Aragón;2005;H;De 75 a 79 años;8
+Aragón;2005;H;De 80 a 84 años;9
+Aragón;2005;H;De 85 a 89 años;6
+Aragón;2005;H;De 90 a 94 años;9
+Aragón;2005;H;De 95 años y más;0
+Aragón;2005;M;Todas las edades;27
+Aragón;2005;M;Menores de 15 años;0
+Aragón;2005;M;De 15 a 29 años;2
+Aragón;2005;M;De 30 a 39 años;3
+Aragón;2005;M;De 40 a 44 años;1
+Aragón;2005;M;De 45 a 49 años;1
+Aragón;2005;M;De 50 a 54 años;3
+Aragón;2005;M;De 55 a 59 años;2
+Aragón;2005;M;De 60 a 64 años;1
+Aragón;2005;M;De 65 a 69 años;2
+Aragón;2005;M;De 70 a 74 años;5
+Aragón;2005;M;De 75 a 79 años;3
+Aragón;2005;M;De 80 a 84 años;3
+Aragón;2005;M;De 85 a 89 años;1
+Aragón;2005;M;De 90 a 94 años;0
+Aragón;2005;M;De 95 años y más;0
+Asturias (Principado de);2005;Ambos sexos;Todas las edades;124
+Asturias (Principado de);2005;Ambos sexos;Menores de 15 años;1
+Asturias (Principado de);2005;Ambos sexos;De 15 a 29 años;10
+Asturias (Principado de);2005;Ambos sexos;De 30 a 39 años;19
+Asturias (Principado de);2005;Ambos sexos;De 40 a 44 años;5
+Asturias (Principado de);2005;Ambos sexos;De 45 a 49 años;10
+Asturias (Principado de);2005;Ambos sexos;De 50 a 54 años;6
+Asturias (Principado de);2005;Ambos sexos;De 55 a 59 años;8
+Asturias (Principado de);2005;Ambos sexos;De 60 a 64 años;9
+Asturias (Principado de);2005;Ambos sexos;De 65 a 69 años;4
+Asturias (Principado de);2005;Ambos sexos;De 70 a 74 años;9
+Asturias (Principado de);2005;Ambos sexos;De 75 a 79 años;15
+Asturias (Principado de);2005;Ambos sexos;De 80 a 84 años;16
+Asturias (Principado de);2005;Ambos sexos;De 85 a 89 años;8
+Asturias (Principado de);2005;Ambos sexos;De 90 a 94 años;3
+Asturias (Principado de);2005;Ambos sexos;De 95 años y más;1
+Asturias (Principado de);2005;H;Todas las edades;82
+Asturias (Principado de);2005;H;Menores de 15 años;0
+Asturias (Principado de);2005;H;De 15 a 29 años;7
+Asturias (Principado de);2005;H;De 30 a 39 años;15
+Asturias (Principado de);2005;H;De 40 a 44 años;4
+Asturias (Principado de);2005;H;De 45 a 49 años;9
+Asturias (Principado de);2005;H;De 50 a 54 años;3
+Asturias (Principado de);2005;H;De 55 a 59 años;7
+Asturias (Principado de);2005;H;De 60 a 64 años;7
+Asturias (Principado de);2005;H;De 65 a 69 años;3
+Asturias (Principado de);2005;H;De 70 a 74 años;5
+Asturias (Principado de);2005;H;De 75 a 79 años;10
+Asturias (Principado de);2005;H;De 80 a 84 años;8
+Asturias (Principado de);2005;H;De 85 a 89 años;2
+Asturias (Principado de);2005;H;De 90 a 94 años;2
+Asturias (Principado de);2005;H;De 95 años y más;0
+Asturias (Principado de);2005;M;Todas las edades;42
+Asturias (Principado de);2005;M;Menores de 15 años;1
+Asturias (Principado de);2005;M;De 15 a 29 años;3
+Asturias (Principado de);2005;M;De 30 a 39 años;4
+Asturias (Principado de);2005;M;De 40 a 44 años;1
+Asturias (Principado de);2005;M;De 45 a 49 años;1
+Asturias (Principado de);2005;M;De 50 a 54 años;3
+Asturias (Principado de);2005;M;De 55 a 59 años;1
+Asturias (Principado de);2005;M;De 60 a 64 años;2
+Asturias (Principado de);2005;M;De 65 a 69 años;1
+Asturias (Principado de);2005;M;De 70 a 74 años;4
+Asturias (Principado de);2005;M;De 75 a 79 años;5
+Asturias (Principado de);2005;M;De 80 a 84 años;8
+Asturias (Principado de);2005;M;De 85 a 89 años;6
+Asturias (Principado de);2005;M;De 90 a 94 años;1
+Asturias (Principado de);2005;M;De 95 años y más;1
+Balears (Illes);2005;Ambos sexos;Todas las edades;70
+Balears (Illes);2005;Ambos sexos;Menores de 15 años;0
+Balears (Illes);2005;Ambos sexos;De 15 a 29 años;12
+Balears (Illes);2005;Ambos sexos;De 30 a 39 años;12
+Balears (Illes);2005;Ambos sexos;De 40 a 44 años;8
+Balears (Illes);2005;Ambos sexos;De 45 a 49 años;6
+Balears (Illes);2005;Ambos sexos;De 50 a 54 años;9
+Balears (Illes);2005;Ambos sexos;De 55 a 59 años;6
+Balears (Illes);2005;Ambos sexos;De 60 a 64 años;3
+Balears (Illes);2005;Ambos sexos;De 65 a 69 años;2
+Balears (Illes);2005;Ambos sexos;De 70 a 74 años;3
+Balears (Illes);2005;Ambos sexos;De 75 a 79 años;3
+Balears (Illes);2005;Ambos sexos;De 80 a 84 años;2
+Balears (Illes);2005;Ambos sexos;De 85 a 89 años;3
+Balears (Illes);2005;Ambos sexos;De 90 a 94 años;1
+Balears (Illes);2005;Ambos sexos;De 95 años y más;0
+Balears (Illes);2005;H;Todas las edades;56
+Balears (Illes);2005;H;Menores de 15 años;0
+Balears (Illes);2005;H;De 15 a 29 años;10
+Balears (Illes);2005;H;De 30 a 39 años;10
+Balears (Illes);2005;H;De 40 a 44 años;6
+Balears (Illes);2005;H;De 45 a 49 años;4
+Balears (Illes);2005;H;De 50 a 54 años;8
+Balears (Illes);2005;H;De 55 a 59 años;6
+Balears (Illes);2005;H;De 60 a 64 años;1
+Balears (Illes);2005;H;De 65 a 69 años;2
+Balears (Illes);2005;H;De 70 a 74 años;3
+Balears (Illes);2005;H;De 75 a 79 años;2
+Balears (Illes);2005;H;De 80 a 84 años;1
+Balears (Illes);2005;H;De 85 a 89 años;3
+Balears (Illes);2005;H;De 90 a 94 años;0
+Balears (Illes);2005;H;De 95 años y más;0
+Balears (Illes);2005;M;Todas las edades;14
+Balears (Illes);2005;M;Menores de 15 años;0
+Balears (Illes);2005;M;De 15 a 29 años;2
+Balears (Illes);2005;M;De 30 a 39 años;2
+Balears (Illes);2005;M;De 40 a 44 años;2
+Balears (Illes);2005;M;De 45 a 49 años;2
+Balears (Illes);2005;M;De 50 a 54 años;1
+Balears (Illes);2005;M;De 55 a 59 años;0
+Balears (Illes);2005;M;De 60 a 64 años;2
+Balears (Illes);2005;M;De 65 a 69 años;0
+Balears (Illes);2005;M;De 70 a 74 años;0
+Balears (Illes);2005;M;De 75 a 79 años;1
+Balears (Illes);2005;M;De 80 a 84 años;1
+Balears (Illes);2005;M;De 85 a 89 años;0
+Balears (Illes);2005;M;De 90 a 94 años;1
+Balears (Illes);2005;M;De 95 años y más;0
+Canarias;2005;Ambos sexos;Todas las edades;158
+Canarias;2005;Ambos sexos;Menores de 15 años;0
+Canarias;2005;Ambos sexos;De 15 a 29 años;16
+Canarias;2005;Ambos sexos;De 30 a 39 años;42
+Canarias;2005;Ambos sexos;De 40 a 44 años;13
+Canarias;2005;Ambos sexos;De 45 a 49 años;16
+Canarias;2005;Ambos sexos;De 50 a 54 años;9
+Canarias;2005;Ambos sexos;De 55 a 59 años;17
+Canarias;2005;Ambos sexos;De 60 a 64 años;8
+Canarias;2005;Ambos sexos;De 65 a 69 años;6
+Canarias;2005;Ambos sexos;De 70 a 74 años;18
+Canarias;2005;Ambos sexos;De 75 a 79 años;7
+Canarias;2005;Ambos sexos;De 80 a 84 años;4
+Canarias;2005;Ambos sexos;De 85 a 89 años;1
+Canarias;2005;Ambos sexos;De 90 a 94 años;0
+Canarias;2005;Ambos sexos;De 95 años y más;1
+Canarias;2005;H;Todas las edades;119
+Canarias;2005;H;Menores de 15 años;0
+Canarias;2005;H;De 15 a 29 años;12
+Canarias;2005;H;De 30 a 39 años;36
+Canarias;2005;H;De 40 a 44 años;8
+Canarias;2005;H;De 45 a 49 años;10
+Canarias;2005;H;De 50 a 54 años;6
+Canarias;2005;H;De 55 a 59 años;13
+Canarias;2005;H;De 60 a 64 años;6
+Canarias;2005;H;De 65 a 69 años;5
+Canarias;2005;H;De 70 a 74 años;12
+Canarias;2005;H;De 75 a 79 años;6
+Canarias;2005;H;De 80 a 84 años;3
+Canarias;2005;H;De 85 a 89 años;1
+Canarias;2005;H;De 90 a 94 años;0
+Canarias;2005;H;De 95 años y más;1
+Canarias;2005;M;Todas las edades;39
+Canarias;2005;M;Menores de 15 años;0
+Canarias;2005;M;De 15 a 29 años;4
+Canarias;2005;M;De 30 a 39 años;6
+Canarias;2005;M;De 40 a 44 años;5
+Canarias;2005;M;De 45 a 49 años;6
+Canarias;2005;M;De 50 a 54 años;3
+Canarias;2005;M;De 55 a 59 años;4
+Canarias;2005;M;De 60 a 64 años;2
+Canarias;2005;M;De 65 a 69 años;1
+Canarias;2005;M;De 70 a 74 años;6
+Canarias;2005;M;De 75 a 79 años;1
+Canarias;2005;M;De 80 a 84 años;1
+Canarias;2005;M;De 85 a 89 años;0
+Canarias;2005;M;De 90 a 94 años;0
+Canarias;2005;M;De 95 años y más;0
+Cantabria;2005;Ambos sexos;Todas las edades;31
+Cantabria;2005;Ambos sexos;Menores de 15 años;0
+Cantabria;2005;Ambos sexos;De 15 a 29 años;2
+Cantabria;2005;Ambos sexos;De 30 a 39 años;6
+Cantabria;2005;Ambos sexos;De 40 a 44 años;2
+Cantabria;2005;Ambos sexos;De 45 a 49 años;2
+Cantabria;2005;Ambos sexos;De 50 a 54 años;3
+Cantabria;2005;Ambos sexos;De 55 a 59 años;2
+Cantabria;2005;Ambos sexos;De 60 a 64 años;2
+Cantabria;2005;Ambos sexos;De 65 a 69 años;3
+Cantabria;2005;Ambos sexos;De 70 a 74 años;2
+Cantabria;2005;Ambos sexos;De 75 a 79 años;0
+Cantabria;2005;Ambos sexos;De 80 a 84 años;5
+Cantabria;2005;Ambos sexos;De 85 a 89 años;2
+Cantabria;2005;Ambos sexos;De 90 a 94 años;0
+Cantabria;2005;Ambos sexos;De 95 años y más;0
+Cantabria;2005;H;Todas las edades;23
+Cantabria;2005;H;Menores de 15 años;0
+Cantabria;2005;H;De 15 a 29 años;2
+Cantabria;2005;H;De 30 a 39 años;4
+Cantabria;2005;H;De 40 a 44 años;1
+Cantabria;2005;H;De 45 a 49 años;2
+Cantabria;2005;H;De 50 a 54 años;2
+Cantabria;2005;H;De 55 a 59 años;2
+Cantabria;2005;H;De 60 a 64 años;1
+Cantabria;2005;H;De 65 a 69 años;2
+Cantabria;2005;H;De 70 a 74 años;1
+Cantabria;2005;H;De 75 a 79 años;0
+Cantabria;2005;H;De 80 a 84 años;4
+Cantabria;2005;H;De 85 a 89 años;2
+Cantabria;2005;H;De 90 a 94 años;0
+Cantabria;2005;H;De 95 años y más;0
+Cantabria;2005;M;Todas las edades;8
+Cantabria;2005;M;Menores de 15 años;0
+Cantabria;2005;M;De 15 a 29 años;0
+Cantabria;2005;M;De 30 a 39 años;2
+Cantabria;2005;M;De 40 a 44 años;1
+Cantabria;2005;M;De 45 a 49 años;0
+Cantabria;2005;M;De 50 a 54 años;1
+Cantabria;2005;M;De 55 a 59 años;0
+Cantabria;2005;M;De 60 a 64 años;1
+Cantabria;2005;M;De 65 a 69 años;1
+Cantabria;2005;M;De 70 a 74 años;1
+Cantabria;2005;M;De 75 a 79 años;0
+Cantabria;2005;M;De 80 a 84 años;1
+Cantabria;2005;M;De 85 a 89 años;0
+Cantabria;2005;M;De 90 a 94 años;0
+Cantabria;2005;M;De 95 años y más;0
+Castilla y León;2005;Ambos sexos;Todas las edades;191
+Castilla y León;2005;Ambos sexos;Menores de 15 años;1
+Castilla y León;2005;Ambos sexos;De 15 a 29 años;25
+Castilla y León;2005;Ambos sexos;De 30 a 39 años;29
+Castilla y León;2005;Ambos sexos;De 40 a 44 años;15
+Castilla y León;2005;Ambos sexos;De 45 a 49 años;12
+Castilla y León;2005;Ambos sexos;De 50 a 54 años;5
+Castilla y León;2005;Ambos sexos;De 55 a 59 años;9
+Castilla y León;2005;Ambos sexos;De 60 a 64 años;12
+Castilla y León;2005;Ambos sexos;De 65 a 69 años;12
+Castilla y León;2005;Ambos sexos;De 70 a 74 años;27
+Castilla y León;2005;Ambos sexos;De 75 a 79 años;14
+Castilla y León;2005;Ambos sexos;De 80 a 84 años;21
+Castilla y León;2005;Ambos sexos;De 85 a 89 años;4
+Castilla y León;2005;Ambos sexos;De 90 a 94 años;4
+Castilla y León;2005;Ambos sexos;De 95 años y más;1
+Castilla y León;2005;H;Todas las edades;159
+Castilla y León;2005;H;Menores de 15 años;1
+Castilla y León;2005;H;De 15 a 29 años;19
+Castilla y León;2005;H;De 30 a 39 años;25
+Castilla y León;2005;H;De 40 a 44 años;15
+Castilla y León;2005;H;De 45 a 49 años;12
+Castilla y León;2005;H;De 50 a 54 años;5
+Castilla y León;2005;H;De 55 a 59 años;7
+Castilla y León;2005;H;De 60 a 64 años;11
+Castilla y León;2005;H;De 65 a 69 años;10
+Castilla y León;2005;H;De 70 a 74 años;20
+Castilla y León;2005;H;De 75 a 79 años;12
+Castilla y León;2005;H;De 80 a 84 años;13
+Castilla y León;2005;H;De 85 a 89 años;4
+Castilla y León;2005;H;De 90 a 94 años;4
+Castilla y León;2005;H;De 95 años y más;1
+Castilla y León;2005;M;Todas las edades;32
+Castilla y León;2005;M;Menores de 15 años;0
+Castilla y León;2005;M;De 15 a 29 años;6
+Castilla y León;2005;M;De 30 a 39 años;4
+Castilla y León;2005;M;De 40 a 44 años;0
+Castilla y León;2005;M;De 45 a 49 años;0
+Castilla y León;2005;M;De 50 a 54 años;0
+Castilla y León;2005;M;De 55 a 59 años;2
+Castilla y León;2005;M;De 60 a 64 años;1
+Castilla y León;2005;M;De 65 a 69 años;2
+Castilla y León;2005;M;De 70 a 74 años;7
+Castilla y León;2005;M;De 75 a 79 años;2
+Castilla y León;2005;M;De 80 a 84 años;8
+Castilla y León;2005;M;De 85 a 89 años;0
+Castilla y León;2005;M;De 90 a 94 años;0
+Castilla y León;2005;M;De 95 años y más;0
+Castilla-La Mancha;2005;Ambos sexos;Todas las edades;152
+Castilla-La Mancha;2005;Ambos sexos;Menores de 15 años;0
+Castilla-La Mancha;2005;Ambos sexos;De 15 a 29 años;18
+Castilla-La Mancha;2005;Ambos sexos;De 30 a 39 años;28
+Castilla-La Mancha;2005;Ambos sexos;De 40 a 44 años;13
+Castilla-La Mancha;2005;Ambos sexos;De 45 a 49 años;9
+Castilla-La Mancha;2005;Ambos sexos;De 50 a 54 años;3
+Castilla-La Mancha;2005;Ambos sexos;De 55 a 59 años;11
+Castilla-La Mancha;2005;Ambos sexos;De 60 a 64 años;12
+Castilla-La Mancha;2005;Ambos sexos;De 65 a 69 años;9
+Castilla-La Mancha;2005;Ambos sexos;De 70 a 74 años;17
+Castilla-La Mancha;2005;Ambos sexos;De 75 a 79 años;10
+Castilla-La Mancha;2005;Ambos sexos;De 80 a 84 años;11
+Castilla-La Mancha;2005;Ambos sexos;De 85 a 89 años;7
+Castilla-La Mancha;2005;Ambos sexos;De 90 a 94 años;4
+Castilla-La Mancha;2005;Ambos sexos;De 95 años y más;0
+Castilla-La Mancha;2005;H;Todas las edades;125
+Castilla-La Mancha;2005;H;Menores de 15 años;0
+Castilla-La Mancha;2005;H;De 15 a 29 años;16
+Castilla-La Mancha;2005;H;De 30 a 39 años;23
+Castilla-La Mancha;2005;H;De 40 a 44 años;11
+Castilla-La Mancha;2005;H;De 45 a 49 años;8
+Castilla-La Mancha;2005;H;De 50 a 54 años;3
+Castilla-La Mancha;2005;H;De 55 a 59 años;7
+Castilla-La Mancha;2005;H;De 60 a 64 años;11
+Castilla-La Mancha;2005;H;De 65 a 69 años;8
+Castilla-La Mancha;2005;H;De 70 a 74 años;11
+Castilla-La Mancha;2005;H;De 75 a 79 años;9
+Castilla-La Mancha;2005;H;De 80 a 84 años;10
+Castilla-La Mancha;2005;H;De 85 a 89 años;5
+Castilla-La Mancha;2005;H;De 90 a 94 años;3
+Castilla-La Mancha;2005;H;De 95 años y más;0
+Castilla-La Mancha;2005;M;Todas las edades;27
+Castilla-La Mancha;2005;M;Menores de 15 años;0
+Castilla-La Mancha;2005;M;De 15 a 29 años;2
+Castilla-La Mancha;2005;M;De 30 a 39 años;5
+Castilla-La Mancha;2005;M;De 40 a 44 años;2
+Castilla-La Mancha;2005;M;De 45 a 49 años;1
+Castilla-La Mancha;2005;M;De 50 a 54 años;0
+Castilla-La Mancha;2005;M;De 55 a 59 años;4
+Castilla-La Mancha;2005;M;De 60 a 64 años;1
+Castilla-La Mancha;2005;M;De 65 a 69 años;1
+Castilla-La Mancha;2005;M;De 70 a 74 años;6
+Castilla-La Mancha;2005;M;De 75 a 79 años;1
+Castilla-La Mancha;2005;M;De 80 a 84 años;1
+Castilla-La Mancha;2005;M;De 85 a 89 años;2
+Castilla-La Mancha;2005;M;De 90 a 94 años;1
+Castilla-La Mancha;2005;M;De 95 años y más;0
+Cataluña;2005;Ambos sexos;Todas las edades;425
+Cataluña;2005;Ambos sexos;Menores de 15 años;1
+Cataluña;2005;Ambos sexos;De 15 a 29 años;56
+Cataluña;2005;Ambos sexos;De 30 a 39 años;78
+Cataluña;2005;Ambos sexos;De 40 a 44 años;41
+Cataluña;2005;Ambos sexos;De 45 a 49 años;29
+Cataluña;2005;Ambos sexos;De 50 a 54 años;26
+Cataluña;2005;Ambos sexos;De 55 a 59 años;28
+Cataluña;2005;Ambos sexos;De 60 a 64 años;29
+Cataluña;2005;Ambos sexos;De 65 a 69 años;27
+Cataluña;2005;Ambos sexos;De 70 a 74 años;32
+Cataluña;2005;Ambos sexos;De 75 a 79 años;32
+Cataluña;2005;Ambos sexos;De 80 a 84 años;23
+Cataluña;2005;Ambos sexos;De 85 a 89 años;13
+Cataluña;2005;Ambos sexos;De 90 a 94 años;10
+Cataluña;2005;Ambos sexos;De 95 años y más;0
+Cataluña;2005;H;Todas las edades;322
+Cataluña;2005;H;Menores de 15 años;1
+Cataluña;2005;H;De 15 a 29 años;40
+Cataluña;2005;H;De 30 a 39 años;57
+Cataluña;2005;H;De 40 a 44 años;37
+Cataluña;2005;H;De 45 a 49 años;19
+Cataluña;2005;H;De 50 a 54 años;21
+Cataluña;2005;H;De 55 a 59 años;24
+Cataluña;2005;H;De 60 a 64 años;24
+Cataluña;2005;H;De 65 a 69 años;17
+Cataluña;2005;H;De 70 a 74 años;23
+Cataluña;2005;H;De 75 a 79 años;22
+Cataluña;2005;H;De 80 a 84 años;17
+Cataluña;2005;H;De 85 a 89 años;11
+Cataluña;2005;H;De 90 a 94 años;9
+Cataluña;2005;H;De 95 años y más;0
+Cataluña;2005;M;Todas las edades;103
+Cataluña;2005;M;Menores de 15 años;0
+Cataluña;2005;M;De 15 a 29 años;16
+Cataluña;2005;M;De 30 a 39 años;21
+Cataluña;2005;M;De 40 a 44 años;4
+Cataluña;2005;M;De 45 a 49 años;10
+Cataluña;2005;M;De 50 a 54 años;5
+Cataluña;2005;M;De 55 a 59 años;4
+Cataluña;2005;M;De 60 a 64 años;5
+Cataluña;2005;M;De 65 a 69 años;10
+Cataluña;2005;M;De 70 a 74 años;9
+Cataluña;2005;M;De 75 a 79 años;10
+Cataluña;2005;M;De 80 a 84 años;6
+Cataluña;2005;M;De 85 a 89 años;2
+Cataluña;2005;M;De 90 a 94 años;1
+Cataluña;2005;M;De 95 años y más;0
+Comunitat Valenciana;2005;Ambos sexos;Todas las edades;388
+Comunitat Valenciana;2005;Ambos sexos;Menores de 15 años;0
+Comunitat Valenciana;2005;Ambos sexos;De 15 a 29 años;57
+Comunitat Valenciana;2005;Ambos sexos;De 30 a 39 años;59
+Comunitat Valenciana;2005;Ambos sexos;De 40 a 44 años;38
+Comunitat Valenciana;2005;Ambos sexos;De 45 a 49 años;35
+Comunitat Valenciana;2005;Ambos sexos;De 50 a 54 años;21
+Comunitat Valenciana;2005;Ambos sexos;De 55 a 59 años;22
+Comunitat Valenciana;2005;Ambos sexos;De 60 a 64 años;21
+Comunitat Valenciana;2005;Ambos sexos;De 65 a 69 años;29
+Comunitat Valenciana;2005;Ambos sexos;De 70 a 74 años;24
+Comunitat Valenciana;2005;Ambos sexos;De 75 a 79 años;32
+Comunitat Valenciana;2005;Ambos sexos;De 80 a 84 años;31
+Comunitat Valenciana;2005;Ambos sexos;De 85 a 89 años;13
+Comunitat Valenciana;2005;Ambos sexos;De 90 a 94 años;5
+Comunitat Valenciana;2005;Ambos sexos;De 95 años y más;1
+Comunitat Valenciana;2005;H;Todas las edades;275
+Comunitat Valenciana;2005;H;Menores de 15 años;0
+Comunitat Valenciana;2005;H;De 15 a 29 años;44
+Comunitat Valenciana;2005;H;De 30 a 39 años;46
+Comunitat Valenciana;2005;H;De 40 a 44 años;26
+Comunitat Valenciana;2005;H;De 45 a 49 años;27
+Comunitat Valenciana;2005;H;De 50 a 54 años;15
+Comunitat Valenciana;2005;H;De 55 a 59 años;14
+Comunitat Valenciana;2005;H;De 60 a 64 años;8
+Comunitat Valenciana;2005;H;De 65 a 69 años;19
+Comunitat Valenciana;2005;H;De 70 a 74 años;18
+Comunitat Valenciana;2005;H;De 75 a 79 años;25
+Comunitat Valenciana;2005;H;De 80 a 84 años;23
+Comunitat Valenciana;2005;H;De 85 a 89 años;6
+Comunitat Valenciana;2005;H;De 90 a 94 años;3
+Comunitat Valenciana;2005;H;De 95 años y más;1
+Comunitat Valenciana;2005;M;Todas las edades;113
+Comunitat Valenciana;2005;M;Menores de 15 años;0
+Comunitat Valenciana;2005;M;De 15 a 29 años;13
+Comunitat Valenciana;2005;M;De 30 a 39 años;13
+Comunitat Valenciana;2005;M;De 40 a 44 años;12
+Comunitat Valenciana;2005;M;De 45 a 49 años;8
+Comunitat Valenciana;2005;M;De 50 a 54 años;6
+Comunitat Valenciana;2005;M;De 55 a 59 años;8
+Comunitat Valenciana;2005;M;De 60 a 64 años;13
+Comunitat Valenciana;2005;M;De 65 a 69 años;10
+Comunitat Valenciana;2005;M;De 70 a 74 años;6
+Comunitat Valenciana;2005;M;De 75 a 79 años;7
+Comunitat Valenciana;2005;M;De 80 a 84 años;8
+Comunitat Valenciana;2005;M;De 85 a 89 años;7
+Comunitat Valenciana;2005;M;De 90 a 94 años;2
+Comunitat Valenciana;2005;M;De 95 años y más;0
+Extremadura;2005;Ambos sexos;Todas las edades;89
+Extremadura;2005;Ambos sexos;Menores de 15 años;0
+Extremadura;2005;Ambos sexos;De 15 a 29 años;9
+Extremadura;2005;Ambos sexos;De 30 a 39 años;5
+Extremadura;2005;Ambos sexos;De 40 a 44 años;4
+Extremadura;2005;Ambos sexos;De 45 a 49 años;6
+Extremadura;2005;Ambos sexos;De 50 a 54 años;10
+Extremadura;2005;Ambos sexos;De 55 a 59 años;6
+Extremadura;2005;Ambos sexos;De 60 a 64 años;12
+Extremadura;2005;Ambos sexos;De 65 a 69 años;7
+Extremadura;2005;Ambos sexos;De 70 a 74 años;5
+Extremadura;2005;Ambos sexos;De 75 a 79 años;11
+Extremadura;2005;Ambos sexos;De 80 a 84 años;7
+Extremadura;2005;Ambos sexos;De 85 a 89 años;1
+Extremadura;2005;Ambos sexos;De 90 a 94 años;4
+Extremadura;2005;Ambos sexos;De 95 años y más;2
+Extremadura;2005;H;Todas las edades;74
+Extremadura;2005;H;Menores de 15 años;0
+Extremadura;2005;H;De 15 a 29 años;8
+Extremadura;2005;H;De 30 a 39 años;5
+Extremadura;2005;H;De 40 a 44 años;4
+Extremadura;2005;H;De 45 a 49 años;6
+Extremadura;2005;H;De 50 a 54 años;9
+Extremadura;2005;H;De 55 a 59 años;5
+Extremadura;2005;H;De 60 a 64 años;10
+Extremadura;2005;H;De 65 a 69 años;6
+Extremadura;2005;H;De 70 a 74 años;4
+Extremadura;2005;H;De 75 a 79 años;8
+Extremadura;2005;H;De 80 a 84 años;4
+Extremadura;2005;H;De 85 a 89 años;1
+Extremadura;2005;H;De 90 a 94 años;2
+Extremadura;2005;H;De 95 años y más;2
+Extremadura;2005;M;Todas las edades;15
+Extremadura;2005;M;Menores de 15 años;0
+Extremadura;2005;M;De 15 a 29 años;1
+Extremadura;2005;M;De 30 a 39 años;0
+Extremadura;2005;M;De 40 a 44 años;0
+Extremadura;2005;M;De 45 a 49 años;0
+Extremadura;2005;M;De 50 a 54 años;1
+Extremadura;2005;M;De 55 a 59 años;1
+Extremadura;2005;M;De 60 a 64 años;2
+Extremadura;2005;M;De 65 a 69 años;1
+Extremadura;2005;M;De 70 a 74 años;1
+Extremadura;2005;M;De 75 a 79 años;3
+Extremadura;2005;M;De 80 a 84 años;3
+Extremadura;2005;M;De 85 a 89 años;0
+Extremadura;2005;M;De 90 a 94 años;2
+Extremadura;2005;M;De 95 años y más;0
+Galicia;2005;Ambos sexos;Todas las edades;329
+Galicia;2005;Ambos sexos;Menores de 15 años;1
+Galicia;2005;Ambos sexos;De 15 a 29 años;34
+Galicia;2005;Ambos sexos;De 30 a 39 años;45
+Galicia;2005;Ambos sexos;De 40 a 44 años;27
+Galicia;2005;Ambos sexos;De 45 a 49 años;14
+Galicia;2005;Ambos sexos;De 50 a 54 años;29
+Galicia;2005;Ambos sexos;De 55 a 59 años;24
+Galicia;2005;Ambos sexos;De 60 a 64 años;24
+Galicia;2005;Ambos sexos;De 65 a 69 años;24
+Galicia;2005;Ambos sexos;De 70 a 74 años;39
+Galicia;2005;Ambos sexos;De 75 a 79 años;25
+Galicia;2005;Ambos sexos;De 80 a 84 años;26
+Galicia;2005;Ambos sexos;De 85 a 89 años;13
+Galicia;2005;Ambos sexos;De 90 a 94 años;3
+Galicia;2005;Ambos sexos;De 95 años y más;1
+Galicia;2005;H;Todas las edades;239
+Galicia;2005;H;Menores de 15 años;1
+Galicia;2005;H;De 15 a 29 años;25
+Galicia;2005;H;De 30 a 39 años;33
+Galicia;2005;H;De 40 a 44 años;25
+Galicia;2005;H;De 45 a 49 años;12
+Galicia;2005;H;De 50 a 54 años;24
+Galicia;2005;H;De 55 a 59 años;14
+Galicia;2005;H;De 60 a 64 años;19
+Galicia;2005;H;De 65 a 69 años;16
+Galicia;2005;H;De 70 a 74 años;25
+Galicia;2005;H;De 75 a 79 años;16
+Galicia;2005;H;De 80 a 84 años;19
+Galicia;2005;H;De 85 a 89 años;10
+Galicia;2005;H;De 90 a 94 años;0
+Galicia;2005;H;De 95 años y más;0
+Galicia;2005;M;Todas las edades;90
+Galicia;2005;M;Menores de 15 años;0
+Galicia;2005;M;De 15 a 29 años;9
+Galicia;2005;M;De 30 a 39 años;12
+Galicia;2005;M;De 40 a 44 años;2
+Galicia;2005;M;De 45 a 49 años;2
+Galicia;2005;M;De 50 a 54 años;5
+Galicia;2005;M;De 55 a 59 años;10
+Galicia;2005;M;De 60 a 64 años;5
+Galicia;2005;M;De 65 a 69 años;8
+Galicia;2005;M;De 70 a 74 años;14
+Galicia;2005;M;De 75 a 79 años;9
+Galicia;2005;M;De 80 a 84 años;7
+Galicia;2005;M;De 85 a 89 años;3
+Galicia;2005;M;De 90 a 94 años;3
+Galicia;2005;M;De 95 años y más;1
+Madrid (Comunidad de);2005;Ambos sexos;Todas las edades;257
+Madrid (Comunidad de);2005;Ambos sexos;Menores de 15 años;2
+Madrid (Comunidad de);2005;Ambos sexos;De 15 a 29 años;32
+Madrid (Comunidad de);2005;Ambos sexos;De 30 a 39 años;57
+Madrid (Comunidad de);2005;Ambos sexos;De 40 a 44 años;28
+Madrid (Comunidad de);2005;Ambos sexos;De 45 a 49 años;19
+Madrid (Comunidad de);2005;Ambos sexos;De 50 a 54 años;16
+Madrid (Comunidad de);2005;Ambos sexos;De 55 a 59 años;18
+Madrid (Comunidad de);2005;Ambos sexos;De 60 a 64 años;20
+Madrid (Comunidad de);2005;Ambos sexos;De 65 a 69 años;7
+Madrid (Comunidad de);2005;Ambos sexos;De 70 a 74 años;10
+Madrid (Comunidad de);2005;Ambos sexos;De 75 a 79 años;20
+Madrid (Comunidad de);2005;Ambos sexos;De 80 a 84 años;17
+Madrid (Comunidad de);2005;Ambos sexos;De 85 a 89 años;6
+Madrid (Comunidad de);2005;Ambos sexos;De 90 a 94 años;5
+Madrid (Comunidad de);2005;Ambos sexos;De 95 años y más;0
+Madrid (Comunidad de);2005;H;Todas las edades;192
+Madrid (Comunidad de);2005;H;Menores de 15 años;0
+Madrid (Comunidad de);2005;H;De 15 a 29 años;20
+Madrid (Comunidad de);2005;H;De 30 a 39 años;42
+Madrid (Comunidad de);2005;H;De 40 a 44 años;28
+Madrid (Comunidad de);2005;H;De 45 a 49 años;14
+Madrid (Comunidad de);2005;H;De 50 a 54 años;13
+Madrid (Comunidad de);2005;H;De 55 a 59 años;15
+Madrid (Comunidad de);2005;H;De 60 a 64 años;9
+Madrid (Comunidad de);2005;H;De 65 a 69 años;4
+Madrid (Comunidad de);2005;H;De 70 a 74 años;8
+Madrid (Comunidad de);2005;H;De 75 a 79 años;17
+Madrid (Comunidad de);2005;H;De 80 a 84 años;12
+Madrid (Comunidad de);2005;H;De 85 a 89 años;5
+Madrid (Comunidad de);2005;H;De 90 a 94 años;5
+Madrid (Comunidad de);2005;H;De 95 años y más;0
+Madrid (Comunidad de);2005;M;Todas las edades;65
+Madrid (Comunidad de);2005;M;Menores de 15 años;2
+Madrid (Comunidad de);2005;M;De 15 a 29 años;12
+Madrid (Comunidad de);2005;M;De 30 a 39 años;15
+Madrid (Comunidad de);2005;M;De 40 a 44 años;0
+Madrid (Comunidad de);2005;M;De 45 a 49 años;5
+Madrid (Comunidad de);2005;M;De 50 a 54 años;3
+Madrid (Comunidad de);2005;M;De 55 a 59 años;3
+Madrid (Comunidad de);2005;M;De 60 a 64 años;11
+Madrid (Comunidad de);2005;M;De 65 a 69 años;3
+Madrid (Comunidad de);2005;M;De 70 a 74 años;2
+Madrid (Comunidad de);2005;M;De 75 a 79 años;3
+Madrid (Comunidad de);2005;M;De 80 a 84 años;5
+Madrid (Comunidad de);2005;M;De 85 a 89 años;1
+Madrid (Comunidad de);2005;M;De 90 a 94 años;0
+Madrid (Comunidad de);2005;M;De 95 años y más;0
+Murcia (Región de);2005;Ambos sexos;Todas las edades;101
+Murcia (Región de);2005;Ambos sexos;Menores de 15 años;0
+Murcia (Región de);2005;Ambos sexos;De 15 a 29 años;13
+Murcia (Región de);2005;Ambos sexos;De 30 a 39 años;18
+Murcia (Región de);2005;Ambos sexos;De 40 a 44 años;8
+Murcia (Región de);2005;Ambos sexos;De 45 a 49 años;6
+Murcia (Región de);2005;Ambos sexos;De 50 a 54 años;9
+Murcia (Región de);2005;Ambos sexos;De 55 a 59 años;6
+Murcia (Región de);2005;Ambos sexos;De 60 a 64 años;5
+Murcia (Región de);2005;Ambos sexos;De 65 a 69 años;11
+Murcia (Región de);2005;Ambos sexos;De 70 a 74 años;7
+Murcia (Región de);2005;Ambos sexos;De 75 a 79 años;4
+Murcia (Región de);2005;Ambos sexos;De 80 a 84 años;10
+Murcia (Región de);2005;Ambos sexos;De 85 a 89 años;4
+Murcia (Región de);2005;Ambos sexos;De 90 a 94 años;0
+Murcia (Región de);2005;Ambos sexos;De 95 años y más;0
+Murcia (Región de);2005;H;Todas las edades;82
+Murcia (Región de);2005;H;Menores de 15 años;0
+Murcia (Región de);2005;H;De 15 a 29 años;11
+Murcia (Región de);2005;H;De 30 a 39 años;16
+Murcia (Región de);2005;H;De 40 a 44 años;7
+Murcia (Región de);2005;H;De 45 a 49 años;4
+Murcia (Región de);2005;H;De 50 a 54 años;6
+Murcia (Región de);2005;H;De 55 a 59 años;5
+Murcia (Región de);2005;H;De 60 a 64 años;3
+Murcia (Región de);2005;H;De 65 a 69 años;9
+Murcia (Región de);2005;H;De 70 a 74 años;5
+Murcia (Región de);2005;H;De 75 a 79 años;4
+Murcia (Región de);2005;H;De 80 a 84 años;9
+Murcia (Región de);2005;H;De 85 a 89 años;3
+Murcia (Región de);2005;H;De 90 a 94 años;0
+Murcia (Región de);2005;H;De 95 años y más;0
+Murcia (Región de);2005;M;Todas las edades;19
+Murcia (Región de);2005;M;Menores de 15 años;0
+Murcia (Región de);2005;M;De 15 a 29 años;2
+Murcia (Región de);2005;M;De 30 a 39 años;2
+Murcia (Región de);2005;M;De 40 a 44 años;1
+Murcia (Región de);2005;M;De 45 a 49 años;2
+Murcia (Región de);2005;M;De 50 a 54 años;3
+Murcia (Región de);2005;M;De 55 a 59 años;1
+Murcia (Región de);2005;M;De 60 a 64 años;2
+Murcia (Región de);2005;M;De 65 a 69 años;2
+Murcia (Región de);2005;M;De 70 a 74 años;2
+Murcia (Región de);2005;M;De 75 a 79 años;0
+Murcia (Región de);2005;M;De 80 a 84 años;1
+Murcia (Región de);2005;M;De 85 a 89 años;1
+Murcia (Región de);2005;M;De 90 a 94 años;0
+Murcia (Región de);2005;M;De 95 años y más;0
+Navarra (Comunidad Foral de);2005;Ambos sexos;Todas las edades;56
+Navarra (Comunidad Foral de);2005;Ambos sexos;Menores de 15 años;0
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 15 a 29 años;13
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 30 a 39 años;13
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 40 a 44 años;4
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 45 a 49 años;2
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 50 a 54 años;3
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 55 a 59 años;3
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 60 a 64 años;2
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 65 a 69 años;3
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 70 a 74 años;5
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 75 a 79 años;3
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 80 a 84 años;3
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 85 a 89 años;2
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 90 a 94 años;0
+Navarra (Comunidad Foral de);2005;Ambos sexos;De 95 años y más;0
+Navarra (Comunidad Foral de);2005;H;Todas las edades;42
+Navarra (Comunidad Foral de);2005;H;Menores de 15 años;0
+Navarra (Comunidad Foral de);2005;H;De 15 a 29 años;11
+Navarra (Comunidad Foral de);2005;H;De 30 a 39 años;7
+Navarra (Comunidad Foral de);2005;H;De 40 a 44 años;3
+Navarra (Comunidad Foral de);2005;H;De 45 a 49 años;1
+Navarra (Comunidad Foral de);2005;H;De 50 a 54 años;3
+Navarra (Comunidad Foral de);2005;H;De 55 a 59 años;3
+Navarra (Comunidad Foral de);2005;H;De 60 a 64 años;1
+Navarra (Comunidad Foral de);2005;H;De 65 a 69 años;2
+Navarra (Comunidad Foral de);2005;H;De 70 a 74 años;5
+Navarra (Comunidad Foral de);2005;H;De 75 a 79 años;2
+Navarra (Comunidad Foral de);2005;H;De 80 a 84 años;2
+Navarra (Comunidad Foral de);2005;H;De 85 a 89 años;2
+Navarra (Comunidad Foral de);2005;H;De 90 a 94 años;0
+Navarra (Comunidad Foral de);2005;H;De 95 años y más;0
+Navarra (Comunidad Foral de);2005;M;Todas las edades;14
+Navarra (Comunidad Foral de);2005;M;Menores de 15 años;0
+Navarra (Comunidad Foral de);2005;M;De 15 a 29 años;2
+Navarra (Comunidad Foral de);2005;M;De 30 a 39 años;6
+Navarra (Comunidad Foral de);2005;M;De 40 a 44 años;1
+Navarra (Comunidad Foral de);2005;M;De 45 a 49 años;1
+Navarra (Comunidad Foral de);2005;M;De 50 a 54 años;0
+Navarra (Comunidad Foral de);2005;M;De 55 a 59 años;0
+Navarra (Comunidad Foral de);2005;M;De 60 a 64 años;1
+Navarra (Comunidad Foral de);2005;M;De 65 a 69 años;1
+Navarra (Comunidad Foral de);2005;M;De 70 a 74 años;0
+Navarra (Comunidad Foral de);2005;M;De 75 a 79 años;1
+Navarra (Comunidad Foral de);2005;M;De 80 a 84 años;1
+Navarra (Comunidad Foral de);2005;M;De 85 a 89 años;0
+Navarra (Comunidad Foral de);2005;M;De 90 a 94 años;0
+Navarra (Comunidad Foral de);2005;M;De 95 años y más;0
+País Vasco;2005;Ambos sexos;Todas las edades;170
+País Vasco;2005;Ambos sexos;Menores de 15 años;1
+País Vasco;2005;Ambos sexos;De 15 a 29 años;20
+País Vasco;2005;Ambos sexos;De 30 a 39 años;44
+País Vasco;2005;Ambos sexos;De 40 a 44 años;19
+País Vasco;2005;Ambos sexos;De 45 a 49 años;10
+País Vasco;2005;Ambos sexos;De 50 a 54 años;18
+País Vasco;2005;Ambos sexos;De 55 a 59 años;4
+País Vasco;2005;Ambos sexos;De 60 a 64 años;5
+País Vasco;2005;Ambos sexos;De 65 a 69 años;7
+País Vasco;2005;Ambos sexos;De 70 a 74 años;14
+País Vasco;2005;Ambos sexos;De 75 a 79 años;18
+País Vasco;2005;Ambos sexos;De 80 a 84 años;4
+País Vasco;2005;Ambos sexos;De 85 a 89 años;4
+País Vasco;2005;Ambos sexos;De 90 a 94 años;2
+País Vasco;2005;Ambos sexos;De 95 años y más;0
+País Vasco;2005;H;Todas las edades;127
+País Vasco;2005;H;Menores de 15 años;1
+País Vasco;2005;H;De 15 a 29 años;16
+País Vasco;2005;H;De 30 a 39 años;31
+País Vasco;2005;H;De 40 a 44 años;16
+País Vasco;2005;H;De 45 a 49 años;7
+País Vasco;2005;H;De 50 a 54 años;12
+País Vasco;2005;H;De 55 a 59 años;1
+País Vasco;2005;H;De 60 a 64 años;2
+País Vasco;2005;H;De 65 a 69 años;5
+País Vasco;2005;H;De 70 a 74 años;9
+País Vasco;2005;H;De 75 a 79 años;17
+País Vasco;2005;H;De 80 a 84 años;4
+País Vasco;2005;H;De 85 a 89 años;4
+País Vasco;2005;H;De 90 a 94 años;2
+País Vasco;2005;H;De 95 años y más;0
+País Vasco;2005;M;Todas las edades;43
+País Vasco;2005;M;Menores de 15 años;0
+País Vasco;2005;M;De 15 a 29 años;4
+País Vasco;2005;M;De 30 a 39 años;13
+País Vasco;2005;M;De 40 a 44 años;3
+País Vasco;2005;M;De 45 a 49 años;3
+País Vasco;2005;M;De 50 a 54 años;6
+País Vasco;2005;M;De 55 a 59 años;3
+País Vasco;2005;M;De 60 a 64 años;3
+País Vasco;2005;M;De 65 a 69 años;2
+País Vasco;2005;M;De 70 a 74 años;5
+País Vasco;2005;M;De 75 a 79 años;1
+País Vasco;2005;M;De 80 a 84 años;0
+País Vasco;2005;M;De 85 a 89 años;0
+País Vasco;2005;M;De 90 a 94 años;0
+País Vasco;2005;M;De 95 años y más;0
+Rioja (La);2005;Ambos sexos;Todas las edades;27
+Rioja (La);2005;Ambos sexos;Menores de 15 años;0
+Rioja (La);2005;Ambos sexos;De 15 a 29 años;4
+Rioja (La);2005;Ambos sexos;De 30 a 39 años;4
+Rioja (La);2005;Ambos sexos;De 40 a 44 años;0
+Rioja (La);2005;Ambos sexos;De 45 a 49 años;4
+Rioja (La);2005;Ambos sexos;De 50 a 54 años;0
+Rioja (La);2005;Ambos sexos;De 55 a 59 años;1
+Rioja (La);2005;Ambos sexos;De 60 a 64 años;2
+Rioja (La);2005;Ambos sexos;De 65 a 69 años;1
+Rioja (La);2005;Ambos sexos;De 70 a 74 años;3
+Rioja (La);2005;Ambos sexos;De 75 a 79 años;6
+Rioja (La);2005;Ambos sexos;De 80 a 84 años;0
+Rioja (La);2005;Ambos sexos;De 85 a 89 años;1
+Rioja (La);2005;Ambos sexos;De 90 a 94 años;0
+Rioja (La);2005;Ambos sexos;De 95 años y más;1
+Rioja (La);2005;H;Todas las edades;21
+Rioja (La);2005;H;Menores de 15 años;0
+Rioja (La);2005;H;De 15 a 29 años;2
+Rioja (La);2005;H;De 30 a 39 años;2
+Rioja (La);2005;H;De 40 a 44 años;0
+Rioja (La);2005;H;De 45 a 49 años;4
+Rioja (La);2005;H;De 50 a 54 años;0
+Rioja (La);2005;H;De 55 a 59 años;1
+Rioja (La);2005;H;De 60 a 64 años;1
+Rioja (La);2005;H;De 65 a 69 años;0
+Rioja (La);2005;H;De 70 a 74 años;3
+Rioja (La);2005;H;De 75 a 79 años;6
+Rioja (La);2005;H;De 80 a 84 años;0
+Rioja (La);2005;H;De 85 a 89 años;1
+Rioja (La);2005;H;De 90 a 94 años;0
+Rioja (La);2005;H;De 95 años y más;1
+Rioja (La);2005;M;Todas las edades;6
+Rioja (La);2005;M;Menores de 15 años;0
+Rioja (La);2005;M;De 15 a 29 años;2
+Rioja (La);2005;M;De 30 a 39 años;2
+Rioja (La);2005;M;De 40 a 44 años;0
+Rioja (La);2005;M;De 45 a 49 años;0
+Rioja (La);2005;M;De 50 a 54 años;0
+Rioja (La);2005;M;De 55 a 59 años;0
+Rioja (La);2005;M;De 60 a 64 años;1
+Rioja (La);2005;M;De 65 a 69 años;1
+Rioja (La);2005;M;De 70 a 74 años;0
+Rioja (La);2005;M;De 75 a 79 años;0
+Rioja (La);2005;M;De 80 a 84 años;0
+Rioja (La);2005;M;De 85 a 89 años;0
+Rioja (La);2005;M;De 90 a 94 años;0
+Rioja (La);2005;M;De 95 años y más;0
+;2005;Ambos sexos;Todas las edades;5
+;2005;Ambos sexos;Menores de 15 años;0
+;2005;Ambos sexos;De 15 a 29 años;1
+;2005;Ambos sexos;De 30 a 39 años;0
+;2005;Ambos sexos;De 40 a 44 años;1
+;2005;Ambos sexos;De 45 a 49 años;0
+;2005;Ambos sexos;De 50 a 54 años;0
+;2005;Ambos sexos;De 55 a 59 años;0
+;2005;Ambos sexos;De 60 a 64 años;2
+;2005;Ambos sexos;De 65 a 69 años;0
+;2005;Ambos sexos;De 70 a 74 años;0
+;2005;Ambos sexos;De 75 a 79 años;1
+;2005;Ambos sexos;De 80 a 84 años;0
+;2005;Ambos sexos;De 85 a 89 años;0
+;2005;Ambos sexos;De 90 a 94 años;0
+;2005;Ambos sexos;De 95 años y más;0
+;2005;H;Todas las edades;5
+;2005;H;Menores de 15 años;0
+;2005;H;De 15 a 29 años;1
+;2005;H;De 30 a 39 años;0
+;2005;H;De 40 a 44 años;1
+;2005;H;De 45 a 49 años;0
+;2005;H;De 50 a 54 años;0
+;2005;H;De 55 a 59 años;0
+;2005;H;De 60 a 64 años;2
+;2005;H;De 65 a 69 años;0
+;2005;H;De 70 a 74 años;0
+;2005;H;De 75 a 79 años;1
+;2005;H;De 80 a 84 años;0
+;2005;H;De 85 a 89 años;0
+;2005;H;De 90 a 94 años;0
+;2005;H;De 95 años y más;0
+;2005;M;Todas las edades;0
+;2005;M;Menores de 15 años;0
+;2005;M;De 15 a 29 años;0
+;2005;M;De 30 a 39 años;0
+;2005;M;De 40 a 44 años;0
+;2005;M;De 45 a 49 años;0
+;2005;M;De 50 a 54 años;0
+;2005;M;De 55 a 59 años;0
+;2005;M;De 60 a 64 años;0
+;2005;M;De 65 a 69 años;0
+;2005;M;De 70 a 74 años;0
+;2005;M;De 75 a 79 años;0
+;2005;M;De 80 a 84 años;0
+;2005;M;De 85 a 89 años;0
+;2005;M;De 90 a 94 años;0
+;2005;M;De 95 años y más;0
+;2005;Ambos sexos;Todas las edades;27
+;2005;Ambos sexos;Menores de 15 años;0
+;2005;Ambos sexos;De 15 a 29 años;10
+;2005;Ambos sexos;De 30 a 39 años;5
+;2005;Ambos sexos;De 40 a 44 años;4
+;2005;Ambos sexos;De 45 a 49 años;1
+;2005;Ambos sexos;De 50 a 54 años;2
+;2005;Ambos sexos;De 55 a 59 años;1
+;2005;Ambos sexos;De 60 a 64 años;1
+;2005;Ambos sexos;De 65 a 69 años;2
+;2005;Ambos sexos;De 70 a 74 años;0
+;2005;Ambos sexos;De 75 a 79 años;1
+;2005;Ambos sexos;De 80 a 84 años;0
+;2005;Ambos sexos;De 85 a 89 años;0
+;2005;Ambos sexos;De 90 a 94 años;0
+;2005;Ambos sexos;De 95 años y más;0
+;2005;H;Todas las edades;22
+;2005;H;Menores de 15 años;0
+;2005;H;De 15 a 29 años;8
+;2005;H;De 30 a 39 años;4
+;2005;H;De 40 a 44 años;3
+;2005;H;De 45 a 49 años;1
+;2005;H;De 50 a 54 años;1
+;2005;H;De 55 a 59 años;1
+;2005;H;De 60 a 64 años;1
+;2005;H;De 65 a 69 años;2
+;2005;H;De 70 a 74 años;0
+;2005;H;De 75 a 79 años;1
+;2005;H;De 80 a 84 años;0
+;2005;H;De 85 a 89 años;0
+;2005;H;De 90 a 94 años;0
+;2005;H;De 95 años y más;0
+;2005;M;Todas las edades;5
+;2005;M;Menores de 15 años;0
+;2005;M;De 15 a 29 años;2
+;2005;M;De 30 a 39 años;1
+;2005;M;De 40 a 44 años;1
+;2005;M;De 45 a 49 años;0
+;2005;M;De 50 a 54 años;1
+;2005;M;De 55 a 59 años;0
+;2005;M;De 60 a 64 años;0
+;2005;M;De 65 a 69 años;0
+;2005;M;De 70 a 74 años;0
+;2005;M;De 75 a 79 años;0
+;2005;M;De 80 a 84 años;0
+;2005;M;De 85 a 89 años;0
+;2005;M;De 90 a 94 años;0
+;2005;M;De 95 años y más;0
